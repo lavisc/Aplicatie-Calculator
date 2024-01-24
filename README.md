@@ -1,2 +1,2 @@
 # Final-Exam-Web-App-IT-Factory
-Calculator App created with HTML, CSS and JS in Visual Studio Code
+Calculator App realizat în HTML, CSS și JS cu Visual Studio Code
